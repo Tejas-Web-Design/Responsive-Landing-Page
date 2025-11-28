@@ -2,6 +2,12 @@
 
 A beautifully crafted, fully responsive landing page built with **Next.js**, **Tailwind CSS**, and **ShadCN UI**.  
 Designed to provide a modern SaaS-style experience with pricing plans, authentication pages, checkout flow, and demo preview support.
+I used Vercel v0 to generate the UI for the Hero section, Features layout, 
+Testimonials cards, and Pricing layout. These components were refined and 
+cleaned for readability and responsiveness using Tailwind CSS. The project was 
+built in Next.js (App Router) with a modular component structure. The landing 
+page is fully responsive and deployed on Vercel with optimized performance.
+
 
 ---
 
